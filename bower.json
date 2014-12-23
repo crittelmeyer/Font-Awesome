@@ -12,14 +12,6 @@
     "./fonts/"
   ],
   "ignore": [
-    "*/.*",
-    "css",
-    "less",
-    "*.json",
-    "src",
-    "*.yml",
-    "Gemfile",
-    "Gemfile.lock",
-    "*.md"
+    
   ]
 }
