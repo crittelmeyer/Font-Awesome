@@ -1,15 +1,15 @@
 {
   "name": "font-awesome-source",
   "description": "Font Awesome w/source",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "keywords": [],
   "homepage": "http://fontawesome.io",
   "dependencies": {},
   "devDependencies": {},
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
   "main": [
-    "./scss/",
-    "./fonts/"
+    "./scss",
+    "./fonts"
   ],
   "ignore": [
     "*/.*",
