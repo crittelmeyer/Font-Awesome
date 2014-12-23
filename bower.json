@@ -1,6 +1,6 @@
 {
-  "name": "font-awesome",
-  "description": "Font Awesome",
+  "name": "font-awesome-source",
+  "description": "Font Awesome w/source",
   "version": "4.2.0",
   "keywords": [],
   "homepage": "http://fontawesome.io",
@@ -8,8 +8,8 @@
   "devDependencies": {},
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
   "main": [
-    "./css/font-awesome.css",
-    "./fonts/*"
+    "./scss/",
+    "./fonts/"
   ],
   "ignore": [
     "*/.*",
