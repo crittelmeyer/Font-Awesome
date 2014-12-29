@@ -1,7 +1,7 @@
 {
   "name": "font-awesome-source",
   "description": "Font Awesome w/source",
-  "version": "4.2.3",
+  "version": "4.2.4",
   "keywords": [],
   "homepage": "http://fontawesome.io",
   "dependencies": {},
@@ -20,6 +20,8 @@
     "*.yml",
     "Gemfile",
     "Gemfile.lock",
-    "*.md"
+    "*.md",
+    ".gitignore",
+    ".npmignore"
   ]
 }
