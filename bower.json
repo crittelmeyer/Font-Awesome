@@ -1,7 +1,7 @@
 {
   "name": "font-awesome-source",
   "description": "Font Awesome w/source",
-  "version": "4.2.6",
+  "version": "4.2.7",
   "keywords": [],
   "homepage": "http://fontawesome.io",
   "dependencies": {},
@@ -9,7 +9,7 @@
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
   "ignore": [
     "*/.*",
-    "css",
+    "scss",
     "less",
     "*.json",
     "src",
